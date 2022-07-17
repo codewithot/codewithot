@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codewithot
+- 👋 Hi, I’m @codewithot a LAMP stack developer.
 - 👀 I’m interested in web development, and mobile app development.
-- 🌱 I’m currently learning Django, flutter, JavaScript and laravel. 
+- 🌱 I’m currently learning JavaScript, Laravel, Django and flutter. 
 - 💞️ I’m looking to collaborate on projects around my stack.
 - 📫 You can reach me on: 
 - Email: victoryikuomola@gmail.com
