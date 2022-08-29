@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @codewithot a LAMP stack developer.
-- 👀 I’m interested in web development, and mobile app development.
+- 👋 Hi, I’m @codewithot a web developer, primarily focused on back-end development.
+- 👀 My interests include fullstack web development, and mobile app development.
 - 🌱 I’m currently learning JavaScript, Laravel, Django and flutter. 
 - 💞️ I’m looking to collaborate on projects around my stack.
 - 📫 You can reach me on: 
