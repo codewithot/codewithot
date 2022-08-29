@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithot a web developer, primarily focused on back-end development.
+- 👋 Hi, I’m @codewithot a web developer, primarily focused on back-end web development.
 - 👀 My interests include fullstack web development, and mobile app development.
 - 🌱 I’m currently learning JavaScript, Laravel, Django and flutter. 
 - 💞️ I’m looking to collaborate on projects around my stack.
