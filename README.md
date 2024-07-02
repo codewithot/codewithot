@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codewithot a web developer, primarily focused on back-end web development.
-- 👀 My interests include fullstack web development, and mobile app development.
-- 🌱 I’m currently learning JavaScript, Laravel, Django and flutter. 
+- 👋 Hi, I’m @codewithot a full-stack engineer, primarily focused on web development.
+- 👀 My interests include mobile app development and deep learning.
+- 🌱 I’m currently learning TypeScript, and flutter. 
 - 💞️ I’m looking to collaborate on projects around my stack.
 - 📫 You can reach me on: 
 - Email: victoryikuomola@gmail.com
