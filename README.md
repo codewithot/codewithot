@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codewithot a full-stack engineer, primarily focused on web development.
-- 👀 My interests include mobile app development.
+- 👀 My interests include automation, artificial intelligence, and mobile app development.
 - 💞️ I’m looking to collaborate on projects around my stack.
 - 📫 You can reach me on: 
 - Email: victoryikuomola@gmail.com
