@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @codewithot a full-stack engineer, primarily focused on web development.
-- 👀 ## Interests
+# 👋 Hi, I'm @codewithot
+
+A full-stack engineer, primarily focused on web development.
+
+## 👀 Interests
 
 - **Automation**: Passionate about building automated workflows, CI/CD pipelines, and infrastructure automation using tools like Docker, Kubernetes, Ansible, and GitLab CI to streamline development processes and improve deployment efficiency.
 
@@ -10,10 +13,15 @@
 - **API Development**: Enjoy architecting and building robust, secure RESTful APIs that power modern applications across web and mobile platforms.
 
 - **Open Source Contribution**: Active in developing and sharing open-source tools, including log parsers and other utilities that solve real-world development challenges.
-- 💞️ I’m looking to collaborate on projects around my stack.
-- 📫 You can reach me on: 
-- Email: victoryikuomola@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/victory-ikuomola-992133118
+
+## 💞️ Collaboration
+
+I'm looking to collaborate on projects around my stack.
+
+## 📫 Reach Me
+
+- **Email**: victoryikuomola@gmail.com
+- **LinkedIn**: [Victory Ikuomola](https://www.linkedin.com/in/victory-ikuomola-992133118)
 
 <!---
 codewithot/codewithot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
