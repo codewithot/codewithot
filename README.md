@@ -21,7 +21,7 @@ I'm looking to collaborate on projects around my stack.
 ## 📫 Reach Me
 
 - **Email**: victoryikuomola@gmail.com
-- **LinkedIn**: [Victory Ikuomola](https://www.linkedin.com/in/victory-ikuomola-992133118)
+- **LinkedIn**: [Victory Ikuomola](https://www.linkedin.com/in/victory-ikuomola)
 
 <!---
 codewithot/codewithot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
